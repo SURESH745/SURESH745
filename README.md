@@ -39,7 +39,7 @@
 ## 🚀 Featured Projects
 
 ### **📂 Web Development**  
-🔹 [CraveTown (Food Delivery App)](https://github.com/SURESH745/CraveTown) 🍔  
+🔹 [Gemini-Clone](https://github.com/SURESH745/Gemini-Clone) 
 🔹 [Social Media App (Instagram-like)](https://github.com/SURESH745/Social-Media-App) 📸  
 🔹 [DineDelights (Restaurant Website)](https://github.com/SURESH745/Restaurant-Website) 🍽️  
 
