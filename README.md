@@ -1,64 +1,65 @@
-<h1 align="center">Hi 👋, I'm Suresh Gongali</h1>
-<h3 align="center">AI Innovator 🤖 | Data Scientist 📊 | Web Developer 🚀</h3>
+## Hi there, I'm Suresh Gongali! 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SURESH745&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-## 🚀 About Me
-🔹 **Final-year BCA student** at **Rayalaseema University**  
-🔹 Passionate about **Machine Learning, Data Science, and Web Development**  
-🔹 Skilled in **Python, Scikit-Learn, JavaScript, React, Node.js**  
-🔹 Always learning and building cool projects!  
+🚀 **AI Innovator | Data Scientist | Web Developer**  
+💡 Passionate about **Machine Learning, Data Science, and Full Stack Development**  
+📍 From **Kurnool, India** | 🌍 **Open Source Contributor**  
 
 ---
 
-## 📂 My Projects
+## 🛠 Tech Stack
 
-### **🔹 Web Development**
-✅ [Portfolio Website](https://sureshgongali.netlify.app/)  
-✅ [CraveTown](https://github.com/SURESH745/CraveTown) - Food delivery/e-commerce  
-✅ [Social Media App](https://github.com/SURESH745/Social-Media-App) - Instagram-like platform  
-✅ [Restaurant Website](https://github.com/SURESH745/DineDelights) - Table booking & interactive menu  
-✅ [Medical Website](https://github.com/SURESH745/Medical-Website) - (If still working on it)  
+**💻 Programming Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### **🔹 Data Science & Machine Learning**
-✅ [Customer Segmentation](https://github.com/SURESH745/customer-segmentation-project-1) - Clustering project  
-✅ [Heart Stroke Prediction](https://github.com/SURESH745/Heart-Stroke-Prediction) - ML classification  
-✅ [Restaurant Recommender System](https://github.com/SURESH745/Restaurant-Recommender-System) - Recommendation model  
-✅ [Delhi House Price Prediction](https://github.com/SURESH745/Delhi-House-Price-Prediction) - Regression analysis  
-✅ [Spam Detection](https://github.com/SURESH745/Spam-Detection) - NLP-based classification  
+**🖥️ Frontend Development:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
----
+**⚙️ Backend & Databases:**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🌐 Connect with Me
-📩 **Email:** sureshgongali745@gmail.com  
-🌍 **Portfolio:** [sureshgongali.netlify.app](https://sureshgongali.netlify.app/)  
-💼 **LinkedIn:** [linkedin.com/in/sureshgongali](https://www.linkedin.com/in/sureshgongali/)  
-📺 **YouTube:** [My Channel](YOUR_YOUTUBE_LINK_HERE)  
-🐦 **Twitter/X:** [@suresh_gongali](https://twitter.com/suresh_gongali)  
-📷 **Instagram:** [@suresh_gongali](https://www.instagram.com/suresh_gongali/)  
+**📊 Data Science & Machine Learning:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
-## ⚡ GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SURESH745&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SURESH745&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURESH745&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Suresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SURESH745&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SURESH745&layout=compact&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SURESH745&theme=dark)
 
 ---
 
-🔥 **Fun Fact:** "I believe learning is a never-ending journey, and I love experimenting with new technologies!"  
+## 🚀 Featured Projects
+
+### **📂 Web Development**  
+🔹 [CraveTown (Food Delivery App)](https://github.com/SURESH745/CraveTown) 🍔  
+🔹 [Social Media App (Instagram-like)](https://github.com/SURESH745/Social-Media-App) 📸  
+🔹 [DineDelights (Restaurant Website)](https://github.com/SURESH745/Restaurant-Website) 🍽️  
+
+### **📂 Data Science & Machine Learning**  
+🔹 [Customer Segmentation (Clustering)](https://github.com/SURESH745/customer-segmentation-ML) 📊  
+🔹 [Heart Stroke Prediction](https://github.com/SURESH745/Heart-Stroke-Prediction) 🏥  
+🔹 [Restaurant Recommender System](https://github.com/SURESH745/Restaurant-Recommender-System) 🍕  
 
 ---
 
+## 🔗 Contact & Links
+
+📍 **Location:** Kurnool, India  
+🌍 **Portfolio Website:** [sureshgongali.netlify.app](https://sureshgongali.netlify.app/)  
+📧 **Email:** _(Add your email if needed)_  
+🔗 **GitHub:** [github.com/SURESH745](https://github.com/SURESH745)  
+🔗 **LinkedIn:** [linkedin.com/in/sureshgongali](https://www.linkedin.com/in/sureshgongali)  
+🔗 **Instagram:** [instagram.com/suresh_gongali](https://www.instagram.com/suresh_gongali)  
+💬 **WhatsApp:** [Chat with me](https://wa.me/YOUR_NUMBER)  
+
+---
+
+🔥 **Let's build something amazing together!** 🚀
