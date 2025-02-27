@@ -1,4 +1,4 @@
-# Suresh Gongali | AI & Data Science Enthusiast | Full-Stack Developer
+# Suresh Gongali | AI & Data Science Enthusiast | Full-Stack Developer | Data Analyst
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sureshgongali.netlify.app-blue?style=for-the-badge&logo=google-chrome)](https://sureshgongali.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SureshGongali-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sureshgongali/)
@@ -22,13 +22,13 @@
 ---
 
 ## About Me  
-I am a **Data Science and Machine Learning Enthusiast** with a strong interest in **AI-driven applications and predictive analytics**. I enjoy working on data-driven projects, exploring machine learning models, and developing web applications. My goal is to enhance my skills and contribute to real-world solutions.
+I am a **Machine Learning Engineer, Full-Stack Developer, and Data Analyst** passionate about **AI-driven applications, predictive analytics, and data-driven solutions**. I enjoy developing machine learning models, working on deep learning projects, and building scalable web applications. My goal is to leverage **data science and artificial intelligence** to solve real-world problems effectively.
 
 ### Skills  
-- **Data Science Basics** (Exploratory Data Analysis, Feature Engineering, Data Preprocessing)  
-- **Machine Learning** (Supervised & Unsupervised Learning, Scikit-Learn, Regression & Classification)  
-- **Deep Learning Basics** (TensorFlow, Neural Networks, Computer Vision)  
-- **Web Development** (React, Node.js, MongoDB, Express.js)  
+- **Data Science & Analytics** (Exploratory Data Analysis, Feature Engineering, Data Visualization, SQL, Power BI)  
+- **Machine Learning** (Supervised & Unsupervised Learning, Model Deployment, Scikit-Learn, Regression & Classification)  
+- **Deep Learning** (Neural Networks, TensorFlow, Computer Vision, CNNs)  
+- **Web Development** (HTML, CSS, Bootstrap, JavaScript, Django, REST APIs)  
 
 ---
 
@@ -39,14 +39,18 @@ I am a **Data Science and Machine Learning Enthusiast** with a strong interest i
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 
-### Data Science & Machine Learning  
+### Data Science, Analytics & Machine Learning  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-### Web Development  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+### Web Technologies  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
 ---
 
@@ -58,14 +62,15 @@ I am a **Data Science and Machine Learning Enthusiast** with a strong interest i
 ## Featured Projects  
 
 ### Web Development  
-- [Gemini Clone (AI-Powered Web App)](https://github.com/SURESH745/Gemini-Clone)  
-- [Portfolio Website](https://github.com/SURESH745/my_portfolio)  
+- [Gemini Clone (AI-Powered Web App)](https://github.com/SURESH745/Gemini-Clone) - An AI chatbot web app inspired by Gemini AI.  
+- [Portfolio Website](https://github.com/SURESH745/my_portfolio) - A sleek personal portfolio showcasing my projects and skills.  
 
-### Data Science & Machine Learning  
-- [Brain Tumor Detection](https://github.com/SURESH745/BRAIN-TUMOR-DETECTION-END-2-END)  
-- [Heart Stroke Prediction](https://github.com/SURESH745/Heart-Stroke-Prediction)  
-- [Restaurant Recommender System](https://github.com/SURESH745/Restaurant-Recommender-Systems)  
-- [Delhi House Price Prediction](https://github.com/SURESH745/Delhi-House-Price-Prediction)  
+### Data Science, Machine Learning & Analytics  
+- [Brain Tumor Detection](https://github.com/SURESH745/BRAIN-TUMOR-DETECTION-END-2-END) - A CNN-based model for detecting brain tumors in MRI scans.  
+- [Heart Stroke Prediction](https://github.com/SURESH745/Heart-Stroke-Prediction) - A classification model predicting stroke risk based on health data.  
+- [Restaurant Recommender System](https://github.com/SURESH745/Restaurant-Recommender-Systems) - A machine learning model suggesting restaurants based on user preferences.  
+- [Delhi House Price Prediction](https://github.com/SURESH745/Delhi-House-Price-Prediction) - A predictive model estimating real estate prices in Delhi.  
+- [Sales Data Analysis](https://github.com/SURESH745/Sales-Data-Analysis) - Data analytics project using SQL and Power BI for sales insights.  
 
 ---
 
