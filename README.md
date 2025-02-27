@@ -1,3 +1,4 @@
+
 # 🚀 Suresh Gongali | AI Innovator | Data Scientist | Full-Stack Developer
 
 ![Header Image](https://user-images.githubusercontent.com/674621/71187833-95796e00-2276-11ea-9e67-84e664c05e60.gif)
@@ -24,13 +25,13 @@
 ---
 
 ## 🎯 **About Me**  
-I am a **Machine Learning Engineer & Full-Stack Developer** passionate about **AI-driven applications, predictive analytics, and scalable web solutions**. My goal is to leverage **data science and AI** to solve real-world problems and build cutting-edge software solutions.
+I am a **Machine Learning Engineer** passionate about **AI-driven applications, predictive analytics, and data-driven solutions**. My goal is to leverage **data science and machine learning** to solve real-world problems and build impactful models.
 
 ### **💡 Expertise:**  
-✔️ **Machine Learning & Deep Learning** (TensorFlow, Scikit-Learn, OpenCV)  
+✔️ **Data Science & Analytics** (Exploratory Data Analysis, Statistical Modeling, Feature Engineering)  
+✔️ **Machine Learning & Deep Learning** (Supervised & Unsupervised Learning, TensorFlow, Scikit-Learn, OpenCV, NLP, Computer Vision)  
 ✔️ **End-to-End AI Solutions** (Data Preprocessing, Model Deployment, MLOps)  
-✔️ **Full-Stack Development** (React, Node.js, MongoDB, Express.js)  
-✔️ **Cloud & DevOps** (AWS, Docker, Kubernetes, CI/CD)  
+✔️ **Web Development** (React, Node.js, MongoDB, Express.js)  
 
 ---
 
@@ -46,21 +47,16 @@ I am a **Machine Learning Engineer & Full-Stack Developer** passionate about **A
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)  
 
-### 🌐 **Full-Stack Web Development**  
+### 🌐 **Web Development**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-### ☁️ **Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
 
 ---
 
 ## 🔥 **Featured Projects**  
 
-### **🖥️ Full-Stack Web Development**  
+### **🖥️ Web Development**  
 🚀 [Gemini Clone (AI-Powered Web App)](https://github.com/SURESH745/Gemini-Clone) 🤖  
 🚀 [Portfolio Website](https://github.com/SURESH745/my_portfolio) 🌐  
 
