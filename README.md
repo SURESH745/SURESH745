@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-sureshgongali.netlify.app-blue?style=for-the-badge)](https://sureshgongali.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SureshGongali-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sureshgongali/)
 [![GitHub](https://img.shields.io/github/followers/SURESH745?style=social)](https://github.com/SURESH745)
-[![Email](https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail)](mailto:sureshgongali@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail)](mailto:ssuresh8337@gmail.com)
 
 ---
 
@@ -58,33 +58,17 @@ I am a **Machine Learning Engineer & Full-Stack Developer** passionate about **A
 
 ---
 
-## 📊 **GitHub Stats**  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SURESH745&show_icons=true&theme=dark" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURESH745&layout=compact&theme=dark" width="48%">
-</div>  
-
----
-
 ## 🔥 **Featured Projects**  
 
 ### **🖥️ Full-Stack Web Development**  
-🚀 [DineDelights (Restaurant Website)](https://github.com/SURESH745/DinedeLights-Food-projects) 🍽️  
 🚀 [Gemini Clone (AI-Powered Web App)](https://github.com/SURESH745/Gemini-Clone) 🤖  
 🚀 [Portfolio Website](https://github.com/SURESH745/my_portfolio) 🌐  
 
 ### **📊 AI & Machine Learning**  
-🚀 [Restaurant Recommender System](https://github.com/SURESH745/Restaurant-Recommender-System) 🍕  
+🚀 [Brain Tumor Detection](https://github.com/SURESH745/BRAIN-TUMOR-DETECTION-END-2-END) 🧠  
+🚀 [Heart Stroke Prediction](https://github.com/SURESH745/Heart-Stroke-Prediction) ❤️  
+🚀 [Restaurant Recommender System](https://github.com/SURESH745/Restaurant-Recommender-Systems) 🍕  
 🚀 [Delhi House Price Prediction](https://github.com/SURESH745/Delhi-House-Price-Prediction) 🏠  
-🚀 [Deep Learning Models](https://github.com/SURESH745/deep-learning) 🤖  
-
----
-
-## 📖 **Blog Articles & Publications**  
-
-✍️ **"Understanding CNNs for Image Classification"** - [Read Here](https://medium.com/@sureshgongali/cnn-image-classification)  
-✍️ **"How to Deploy ML Models with Flask & Docker"** - [Read Here](https://towardsdatascience.com/flask-docker-ml-deployment)  
 
 ---
 
@@ -92,7 +76,7 @@ I am a **Machine Learning Engineer & Full-Stack Developer** passionate about **A
 
 📍 **Location:** Kurnool, India  
 🌍 **Portfolio Website:** [sureshgongali.netlify.app](https://sureshgongali.netlify.app/)  
-📧 **Email:** [sureshgongali@example.com](mailto:sureshgongali@example.com)  
+📧 **Email:** [ssuresh8337@gmail.com](mailto:ssuresh8337@gmail.com)  
 🔗 **GitHub:** [github.com/SURESH745](https://github.com/SURESH745)  
 🔗 **LinkedIn:** [linkedin.com/in/sureshgongali](https://www.linkedin.com/in/sureshgongali/)  
 
