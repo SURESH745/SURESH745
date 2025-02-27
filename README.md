@@ -1,7 +1,5 @@
 
-# 🚀 Suresh Gongali | AI Innovator | Data Scientist | Full-Stack Developer
-
-![Header Image](https://user-images.githubusercontent.com/674621/71187833-95796e00-2276-11ea-9e67-84e664c05e60.gif)
+# Suresh Gongali | AI Innovator | Data Scientist | Full-Stack Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sureshgongali.netlify.app-blue?style=for-the-badge)](https://sureshgongali.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SureshGongali-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sureshgongali/)
@@ -10,13 +8,13 @@
 
 ---
 
-## 🏆 **GitHub Contributions & Activity**  
+## GitHub Contributions & Activity  
 
-📌 **My Contributions Over the Last Year**  
+**My Contributions Over the Last Year**  
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SURESH745&theme=react-dark)  
 
-📌 **Recent GitHub Streaks**  
+**Recent GitHub Streaks**  
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SURESH745&theme=dark" width="48%">
@@ -24,51 +22,45 @@
 
 ---
 
-## 🎯 **About Me**  
+## About Me  
 I am a **Machine Learning Engineer** passionate about **AI-driven applications, predictive analytics, and data-driven solutions**. My goal is to leverage **data science and machine learning** to solve real-world problems and build impactful models.
 
-### **💡 Expertise:**  
-✔️ **Data Science & Analytics** (Exploratory Data Analysis, Statistical Modeling, Feature Engineering)  
-✔️ **Machine Learning & Deep Learning** (Supervised & Unsupervised Learning, TensorFlow, Scikit-Learn, OpenCV, NLP, Computer Vision)  
-✔️ **End-to-End AI Solutions** (Data Preprocessing, Model Deployment, MLOps)  
-✔️ **Web Development** (React, Node.js, MongoDB, Express.js)  
+### Expertise  
+- **Data Science & Analytics** (Exploratory Data Analysis, Statistical Modeling, Feature Engineering)  
+- **Machine Learning & Deep Learning** (Supervised & Unsupervised Learning, TensorFlow, Scikit-Learn, OpenCV, NLP, Computer Vision)  
+- **End-to-End AI Solutions** (Data Preprocessing, Model Deployment, MLOps)  
+- **Web Development** (React, Node.js, MongoDB, Express.js)  
 
 ---
 
-## 🚀 **Tech Stack & Tools**  
+## Tech Stack & Tools  
 
-### 👨‍💻 **Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+### Languages & Frameworks  
+- Python, JavaScript, C++
 
-### 🖥️ **AI & Machine Learning**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)  
+### AI & Machine Learning  
+- TensorFlow, PyTorch, Scikit-Learn  
 
-### 🌐 **Web Development**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+### Web Development  
+- React, Node.js, MongoDB  
 
 ---
 
-## 🔥 **Featured Projects**  
+## Featured Projects  
 
-### **🖥️ Web Development**  
-🚀 [Gemini Clone (AI-Powered Web App)](https://github.com/SURESH745/Gemini-Clone) 🤖  
-🚀 [Portfolio Website](https://github.com/SURESH745/my_portfolio) 🌐  
+### Web Development  
+- [Gemini Clone (AI-Powered Web App)](https://github.com/SURESH745/Gemini-Clone)  
+- [Portfolio Website](https://github.com/SURESH745/my_portfolio)  
 
-### **📊 AI & Machine Learning**  
-🚀 [Brain Tumor Detection](https://github.com/SURESH745/BRAIN-TUMOR-DETECTION-END-2-END) 🧠  
-🚀 [Heart Stroke Prediction](https://github.com/SURESH745/Heart-Stroke-Prediction) ❤️  
-🚀 [Restaurant Recommender System](https://github.com/SURESH745/Restaurant-Recommender-Systems) 🍕  
-🚀 [Delhi House Price Prediction](https://github.com/SURESH745/Delhi-House-Price-Prediction) 🏠  
+### AI & Machine Learning  
+- [Brain Tumor Detection](https://github.com/SURESH745/BRAIN-TUMOR-DETECTION-END-2-END)  
+- [Heart Stroke Prediction](https://github.com/SURESH745/Heart-Stroke-Prediction)  
+- [Restaurant Recommender System](https://github.com/SURESH745/Restaurant-Recommender-Systems)  
+- [Delhi House Price Prediction](https://github.com/SURESH745/Delhi-House-Price-Prediction)  
 
 ---
 
-## 🔗 **Contact & Links**  
+## Contact & Links  
 
 📍 **Location:** Kurnool, India  
 🌍 **Portfolio Website:** [sureshgongali.netlify.app](https://sureshgongali.netlify.app/)  
@@ -78,5 +70,5 @@ I am a **Machine Learning Engineer** passionate about **AI-driven applications, 
 
 ---
 
-🚀 **Let's Build Something Amazing Together!**
+**Let's Build Something Amazing Together!**
 
