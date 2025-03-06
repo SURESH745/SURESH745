@@ -66,6 +66,7 @@ I am a **Machine Learning Engineer, Full-Stack Developer, and Data Analyst** pas
 - [Portfolio Website](https://github.com/SURESH745/my_portfolio) - A sleek personal portfolio showcasing my projects and skills.  
 
 ### Data Science, Machine Learning & Analytics  
+- [Superstore Sales Dashboard with Streamlit](https://github.com/SURESH745/Superstore-Sales-Dashboard-with-Streamlit.git) -  An interactive Streamlit dashboard for analyzing superstore sales data with visualizations and insights.
 - [Brain Tumor Detection](https://github.com/SURESH745/BRAIN-TUMOR-DETECTION-END-2-END) - A CNN-based model for detecting brain tumors in MRI scans.  
 - [Heart Stroke Prediction](https://github.com/SURESH745/Heart-Stroke-Prediction) - A classification model predicting stroke risk based on health data.  
 - [Restaurant Recommender System](https://github.com/SURESH745/Restaurant-Recommender-Systems) - A machine learning model suggesting restaurants based on user preferences.  
