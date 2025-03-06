@@ -59,7 +59,7 @@ I am a **Machine Learning Engineer, Full-Stack Developer, and Data Analyst** pas
 
 ---
 
-## Featured Projects  
+##### Featured Projects  
 
 ### Web Development  
 - [Gemini Clone (AI-Powered Web App)](https://github.com/SURESH745/Gemini-Clone) - An AI chatbot web app inspired by Gemini AI.  
@@ -70,8 +70,7 @@ I am a **Machine Learning Engineer, Full-Stack Developer, and Data Analyst** pas
 - [Brain Tumor Detection](https://github.com/SURESH745/BRAIN-TUMOR-DETECTION-END-2-END) - A CNN-based model for detecting brain tumors in MRI scans.  
 - [Heart Stroke Prediction](https://github.com/SURESH745/Heart-Stroke-Prediction) - A classification model predicting stroke risk based on health data.  
 - [Restaurant Recommender System](https://github.com/SURESH745/Restaurant-Recommender-Systems) - A machine learning model suggesting restaurants based on user preferences.  
-- [Delhi House Price Prediction](https://github.com/SURESH745/Delhi-House-Price-Prediction) - A predictive model estimating real estate prices in Delhi.  
-- [Sales Data Analysis](https://github.com/SURESH745/Sales-Data-Analysis) - Data analytics project using SQL and Power BI for sales insights.  
+- [Delhi House Price Prediction](https://github.com/SURESH745/Delhi-House-Price-Prediction) - A predictive model estimating real estate prices in Delhi. 
 
 ---
 
