@@ -1,4 +1,4 @@
-# Suresh Gongali | AI & Data Science Enthusiast | Full-Stack Developer | Data Analyst
+# Suresh Gongali | AI & Data Science Enthusiast | Data Analyst
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sureshgongali.netlify.app-blue?style=for-the-badge&logo=google-chrome)](https://sureshgongali.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SureshGongali-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sureshgongali/)
