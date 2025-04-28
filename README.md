@@ -53,7 +53,6 @@ My expertise includes developing **machine learning models**, building **deep le
 
 ### Web Technologies  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
 ---
 
