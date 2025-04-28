@@ -22,7 +22,7 @@
 ---
 
 ## About Me  
-I am a **Data Scientist**, **Machine Learning Engineer**, and **Data Analyst** with a passion for solving real-world problems through **data-driven insights**. This project focuses on [brief description of what the project solves or does].
+I am a **Data Scientist**, **Machine Learning**, and **Data Analyst** with a passion for solving real-world problems through **data-driven insights**. This project focuses on [brief description of what the project solves or does].
 
 My expertise includes developing **machine learning models**, building **deep learning systems**, and delivering **predictive analytics** solutions that drive business value. I specialize in **model building**, **data preprocessing**, and **feature engineering** to create **efficient** and **scalable solutions**.
 
