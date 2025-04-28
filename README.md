@@ -22,7 +22,10 @@
 ---
 
 ## About Me  
-I am a **Machine Learning Engineer, Full-Stack Developer, and Data Analyst** passionate about **AI-driven applications, predictive analytics, and data-driven solutions**. I enjoy developing machine learning models, working on deep learning projects, and building scalable web applications. My goal is to leverage **data science and artificial intelligence** to solve real-world problems effectively.
+I am a **Data Scientist**, **Machine Learning Engineer**, and **Data Analyst** with a passion for solving real-world problems through **data-driven insights**. This project focuses on [brief description of what the project solves or does].
+
+My expertise includes developing **machine learning models**, building **deep learning systems**, and delivering **predictive analytics** solutions that drive business value. I specialize in **model building**, **data preprocessing**, and **feature engineering** to create **efficient** and **scalable solutions**.
+
 
 ### Skills  
 - **Data Science & Analytics** (Exploratory Data Analysis, Feature Engineering, Data Visualization, SQL, Power BI)  
