@@ -28,7 +28,7 @@ My expertise includes developing **REST APIs**, implementing **JWT authenticatio
 
 ### Skills  
 - **Backend Development** (Python, Django, Django REST Framework, CRUD Operations, MySQL)  
-- **Frontend Development** (HTML, CSS, Bootstrap, JavaScript, Responsive Design)  
+- **Frontend Development** (HTML, CSS, Bootstrap, JavaScript, React, Responsive Design)  
 - **Authentication & Security** (JWT, bcrypt, User Authentication, Authorization)  
 - **Version Control & Tools** (Git, GitHub, MVC Architecture)  
 - **Additional** (AI Integration, TensorFlow, OpenCV, Streamlit)  
@@ -41,11 +41,13 @@ My expertise includes developing **REST APIs**, implementing **JWT authenticatio
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
 ### Frontend Technologies  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 ### Backend & Database  
 ![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)  
@@ -55,6 +57,7 @@ My expertise includes developing **REST APIs**, implementing **JWT authenticatio
 ### Tools & Version Control  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
 
 ---
 
@@ -77,7 +80,11 @@ My expertise includes developing **REST APIs**, implementing **JWT authenticatio
 
 ### **A Tomato - Food Delivery Platform App**  
 **Tech Stack:** Python, Django, JavaScript, Bootstrap, JWT, Stripe  
-**[Live Demo](https://your-demo-link.com) | [Admin Panel](https://your-admin-link.com) | [Backend API](https://your-api-link.com)**  
+
+## Explore the Deployed Website  
+- **Frontend:** [https://food-delivery-website-frontend-zq1q.onrender.com](https://food-delivery-website-frontend-zq1q.onrender.com)  
+- **Admin Panel:** [https://food-delivery-website-admin-lsv1.onrender.com](https://food-delivery-website-admin-lsv1.onrender.com)  
+- **Backend API:** [https://food-delivery-website-backend-43wv.onrender.com](https://food-delivery-website-backend-43wv.onrender.com)  
 
 - **Full-Stack Food Delivery Platform** with secure user authentication and payment integration  
 - **JWT-based Authentication** with bcrypt password hashing for enhanced security  
@@ -86,6 +93,24 @@ My expertise includes developing **REST APIs**, implementing **JWT authenticatio
 - **Stripe Payment Integration** for secure and seamless transactions  
 - **RESTful API Design** following MVC architecture patterns  
 - **Order Management System** with real-time status updates  
+
+### **Gemini-Clone - AI Chat Interface**  
+**Tech Stack:** React, JavaScript, Vite, Tailwind CSS, Context API  
+**[🔗 Live Demo](https://your-gemini-clone-demo.com) | [GitHub Repository](https://github.com/SURESH745/Gemini-Clone)**  
+
+- **Modern React Application** built with Vite for fast and efficient development  
+- **Component-based Architecture** for maintainability and scalability  
+- **State Management** using Context API for seamless data flow  
+- **Responsive UI Design** with Tailwind CSS for optimal user experience  
+- **Google Gemini Interface Clone** with focus on performance and functionality  
+- **Fast Development Environment** with hot module replacement and optimized builds  
+
+**Key Features:**
+- Modern UI built with React and Tailwind CSS
+- Fast and optimized with Vite
+- Component-based architecture for maintainability
+- State management using Context API
+- Responsive design for seamless user experience
 
 ### **SmartVision – Real-Time Face Mask Detection System**  
 **Tech Stack:** Python, TensorFlow, Keras, OpenCV, CNN, Streamlit  
@@ -134,3 +159,5 @@ Class X - **CGPA: 8.5** (2020)
 ---
 
 **Let's Build Amazing Web Applications Together!**
+
+*Made with ❤️ by Gongali Suresh*
