@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Suresh745-black?style=for-the-badge&logo=github)](https://github.com/SURESH745)
 [![Email](https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail)](mailto:sureshgongali1@gmail.com)
 
----
+----
 
 ## GitHub Contributions & Activity  
 
@@ -159,5 +159,8 @@ Class X - **CGPA: 8.5** (2020)
 ---
 
 **Let's Build Amazing Web Applications Together!**
+If you’ve scrolled this far — thank you! 😊  
+Let’s connect and create something awesome together.
+
 
 *Made with ❤️ by Gongali Suresh*
