@@ -93,7 +93,7 @@ My expertise includes developing **REST APIs**, implementing **JWT authenticatio
 
 ### **Gemini-Clone - AI Chat Interface**  
 **Tech Stack:** React, JavaScript, Vite, Tailwind CSS, Context API  
-**[🔗 Live Demo](https://your-gemini-clone-demo.com) | [GitHub Repository](https://github.com/SURESH745/Gemini-Clone)**  
+**[🔗 Live Demo](https://super-bunny-ce95b3.netlify.app/) | [GitHub Repository](https://github.com/SURESH745/Gemini-Clone)**  
 
 - **Modern React Application** built with Vite for fast and efficient development  
 - **Component-based Architecture** for maintainability and scalability  
