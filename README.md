@@ -74,13 +74,6 @@ KPI Design | Business Intelligence
 Schema Validation | Data Quality Frameworks | RBAC
 Data Encryption | Audit Logging
 ```
-
-### Production Operations
-```
-SLA Management | Incident Response | Monitoring & Alerting
-Performance Optimization | ServiceNow Ticketing | Production Support
-```
-
 ---
 
 ## MLOps & Machine Learning Engineering
@@ -124,12 +117,6 @@ Advanced proficiency in building and operationalizing machine learning systems w
 - Integrated **AWS Kinesis** for real-time feature stream ingestion into ML systems
 - Implemented **auto-scaling ML compute** managing variable workload demands cost-effectively
 - Deployed **containerized ML workflows** using Databricks Jobs for reproducible model training
-
-**Advanced Analytics for ML Readiness**
-- Partnered with **ML Engineering teams** to design feature datasets optimizing model performance
-- Conducted **data exploration and statistical analysis** informing feature selection strategies
-- Implemented **feature importance tracking** enabling iterative feature engineering improvements
-- Created **experiment result visualization** dashboards for ML team collaboration and decision-making
 
 ### MLOps Tech Stack
 `MLflow` `Databricks Lakebase` `MosaicAI` `Delta Lake Feature Stores` `AWS Kinesis` `Auto Loader` `PySpark ML` `Schema Validation Frameworks` `ML Monitoring Systems` `Azure Log Analytics for ML` `Data Quality Automation` `Model Registry & Versioning`
@@ -266,21 +253,10 @@ Continuous learning in advanced Spark optimization techniques, Delta Lake best p
 - Advanced MLOps practitioner capable of building end-to-end ML systems from feature engineering to production serving
 - Full-stack data engineer: ingestion → transformation → serving → ML integration → monitoring
 - Hands-on expertise with modern lakehouse architectures, Medallion patterns, and Unity Catalog governance
-
-**Low Ramp-Up, High Impact**
-- Immediately productive with Azure, Databricks, and cloud data platforms
-- Proven success working in fast-paced environments and learning new technologies independently
-- Track record of collaboration across data, analytics, ML, and business teams
-
 ### For Technical Leads
 - Strong fundamentals in distributed computing, Spark optimization, and data architecture patterns
 - Proactive incident management and production operations experience
 - Self-directed learning mindset evident in continuous certification pursuit and technical skill development
-
-### For Startup CTOs
-- End-to-end platform architect capable of building data infrastructure from scratch
-- Cost optimization expertise (40% infrastructure savings through intelligent resource management)
-- Full ownership mentality demonstrated through managing complex production systems independently
 
 ---
 
