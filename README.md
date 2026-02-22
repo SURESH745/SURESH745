@@ -1,4 +1,4 @@
-# 🏛️ Suresh Gongali | Data Architect & GenAI Systems Engineer
+# 🏛️ Suresh Gongali | Data Engineer & GenAI Systems Engineer
 **Building Resilient Data Foundations for the AI-Driven Enterprise**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sureshgongali/)
@@ -6,7 +6,7 @@
 [![Azure Certified](https://img.shields.io/badge/Azure_Architect_Path-DP--203_|_DP--100-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/sureshgongali/)
 
 ## 🎯 Executive Vision
-Strategic **Data Systems Architect** with 4+ years of experience engineering high-throughput, mission-critical platforms on **Azure** and **Databricks**. I specialize in the convergence of **Data Engineering (DE)** and **Generative AI (GenAI)**, transforming fragmented data silos into unified, high-performance Lakehouses.
+Strategic **Data Systems Architect** with 1 years of experience engineering high-throughput, mission-critical platforms on **Azure** and **Databricks**. I specialize in the convergence of **Data Engineering (DE)** and **Generative AI (GenAI)**, transforming fragmented data silos into unified, high-performance Lakehouses.
 
 * **Engineering Excellence:** Architected zero-data-loss pipelines for **45GB+ daily payloads** with strict 99.5% SLA compliance.
 * **Financial Stewardship:** Leveraged **Liquid Clustering** and **Serverless SQL** to drive a **40% TCO (Total Cost of Ownership) reduction**.
