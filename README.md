@@ -74,7 +74,7 @@ KPI Design | Business Intelligence
 Schema Validation | Data Quality Frameworks | RBAC
 Data Encryption | Audit Logging
 ```
----
+----
 
 ## MLOps & Machine Learning Engineering
 
